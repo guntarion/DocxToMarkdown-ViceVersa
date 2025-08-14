@@ -29,6 +29,9 @@ ENV/
 env.bak/
 venv.bak/
 
+doc
+docx
+
 # IDE
 .vscode/
 .idea/
